@@ -1,2 +1,2 @@
-# Veterans-TalkBack
-A safe and secure interpersonal messenger test bed
+# TalkBack
+TalkBack - a private messaging test bed
