@@ -1,2 +1,2 @@
 # TalkBack
-TalkBack - a private messaging test bed
+TalkBack - a private email test bed
