@@ -1,10 +1,34 @@
-<td style="color: #153643; font-family: Arial, sans-serif; font-size: 24px;">
- <b>Lorem ipsum dolor sit amet!</b>
-</td>
-style="color: #153643; font-family: Arial, sans-serif; font-size: 16px; line-height: 20px;"
-<td style="color: #ffffff; font-family: Arial, sans-serif; font-size: 14px;">
- &reg; Someone, somewhere 2013<br/>
- <a href="#" style="color: #ffffff;"><font color="#ffffff">Unsubscribe</font></a> to this newsletter instantly
-</td>
-style="border: 1px solid #cccccc;"
-<td style="padding: 20px 0 30px 0;">
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+
+}
+
+/* Twitter */
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+/* Google+ */
+.fa-plus-google {
+    background: #dd4b39;
+    color: white;
+
+}
+
+/* LinkedIn */
+.fa-linkedin {
+    background: #55ACEE;
+    color: white;
+}
+
+/* Instagram */
+.fa-instagram {
+    background: #3B5998;
+    color: white;
+}
